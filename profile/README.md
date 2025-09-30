@@ -12,7 +12,7 @@
 > - [**BukkitOfUtils (<u>BOU</u>)**](https://github.com/Streamline-Essentials/BukkitOfUtils)
 
 ## Who is Drak? (Introduction)
-Hello, my real name is Matt. I just go by Drak online because it is catchy. (And no. I am not a furry...)
+Hello, my real name is Matt. I just go by Drak online because it is catchy.
 
 I mainly develop software for game servers like Minecraft, but I have professional development experience working as a BI (Business Intelligence) Developer. A BI Dev is a fancy name for someone who develops software based around business intel. This could be warehousing data for analytics, or just simply making an app that fulfills the functions a business wants.
 
