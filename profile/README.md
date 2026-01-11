@@ -20,7 +20,7 @@ I can work both backend (SQL/NoSQL or specifically server-side code) <u>**and**<
 
 ## What are you most known for?
 ### In the Professional Realm
-I am specifically known for my work with RESTful APIs. I have made an application that warehouses data from some RESTful APIs are stores them in a database. This database would then get used for analytical data and also a script that would automate some processes of the business I worked for. For every week this script would run, it would save the business I worked for over 40 hours that would have been needed to be paid to employees elsewise. So, yes, I have saved hundreds if not thousands of dollars making this.
+I am specifically known for my work with RESTful APIs. I have made an application that warehouses data from some RESTful APIs and stores them in a database. This database would then get used for analytical data and also a script that would automate some processes of the business I worked for. For every week this script would run, it would save the business I worked for over 40 hours that would have been needed to be paid to employees elsewise. So, yes, I have saved hundreds if not thousands of dollars making this.
 
 ### In my Hobbies
 I am most known for administrating game servers for large content creators like CheifXD, Target3dGaming, and (more recently) qBedwars / Flxme.
